@@ -28,4 +28,5 @@ Dataset ini berisi data terkait kondisi kesehatan jantung individu, yang mencaku
 **Oldpeak**: Penurunan ST pada latihan dibandingkan dengan istirahat (dalam mm).
 
 **ST_Slope**: Kemiringan segmen ST (Up, Flat, Down).
+
 **HeartDisease**: Status penyakit jantung (0: tidak ada penyakit jantung, 1: ada penyakit jantung).
