@@ -7,6 +7,7 @@ Kecerdasan Buatan
 Dataset ini berisi data terkait kondisi kesehatan jantung individu, yang mencakup berbagai atribut demografis dan medis. Berikut adalah penjelasan mengenai kolom-kolom dalam dataset:
 
 Age: Usia individu dalam tahun.
+
 Sex: Jenis kelamin individu (M untuk pria, F untuk wanita).
 ChestPainType: Tipe nyeri dada yang dialami (ATA: angina tipe stabil, NAP: angina tidak stabil, ASY: angina atypical, TA: tidak ada nyeri dada).
 RestingBP: Tekanan darah saat istirahat (dalam mmHg).
